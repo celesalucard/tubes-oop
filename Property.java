@@ -30,7 +30,7 @@ public abstract class Property extends Tile{
         return this.owner;
     }
     
-    //method buy 
+    //method buy, untuk membeli rumah
     public void buy (Player pl){
 
     }
